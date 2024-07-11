@@ -7,4 +7,4 @@
  <h1 align="center"> Atualizando Relatório Financeiro com Foco na Experiência do Usuário </h1>
 
  - **Objetivo do desafio:** Modificar o relatório criativo, o primeiro que criamos juntos, focando na experiência do usuário.
- - **Arquivos:** [Atualizando Relatório Financeiro com Foco na Experiência do Usuário](https://github.com/gabisoaress18/Atualizando_Relatorio_Financeiro_com_Foco_na_Experiencia_do_Usuario/blob/c6f85f78a728e76d25584669d05d85f0d690bdc4/Atualizando%20Relat%C3%B3rio%20Financeiro%20com%20Foco%20na%20Experi%C3%AAncia%20do%20Usu%C3%A1rio.pbix)
+ - **Arquivos:** [Atualizando Relatório Financeiro com Foco na Experiência do Usuário](https://github.com/gabisoaress18/Atualizando_Relatorio_Financeiro_com_Foco_na_Experiencia_do_Usuario/blob/e449f0c7bfc341a829836cef2af791e99cb9d500/Atualizando%20Relat%C3%B3rio%20Financeiro%20com%20Foco%20na%20Experi%C3%AAncia%20do%20Usu%C3%A1rio.pbix)
